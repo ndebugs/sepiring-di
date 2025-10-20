@@ -1,0 +1,19 @@
+{
+    "name": "sepiring/di",
+    "description": "Sepiring – Dependency Injection Container",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sepiring\\DI\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ndebugs",
+            "email": "yussin.hidayat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
